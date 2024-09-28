@@ -15,6 +15,8 @@ Ensure you have Python installed along with the following packages:
 - numpy
 - scikit-learn
 - matplotlib
+- ast
+- seaborn
 - 
 ## Running the Project
 Navigate to the project directory and run the main script:
