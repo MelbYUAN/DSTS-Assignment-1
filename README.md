@@ -17,7 +17,7 @@ Ensure you have Python installed along with the following packages:
 - matplotlib
 - ast
 - seaborn
-- 
+  
 ## Running the Project
 Navigate to the project directory and run the main script:
 Assignment.ipynb
