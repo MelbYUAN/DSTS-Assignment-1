@@ -1,5 +1,7 @@
 # Sydney Restaurant Rating Prediction
 
+Please go to master branch
+
 ## Overview
 This project focuses on predicting restaurant ratings in Sydney based on spatial and categorical data from various eateries. Using machine learning models, the project aims to correlate features like location, cuisine type, and user votes with the restaurant's rating.
 
